@@ -1,2 +1,3 @@
 # mimotion
 微信步数
+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
